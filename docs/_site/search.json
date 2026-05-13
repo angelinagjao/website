@@ -1,0 +1,149 @@
+[
+  {
+    "objectID": "marketing-analytics.html",
+    "href": "marketing-analytics.html",
+    "title": "Marketing Analytics",
+    "section": "",
+    "text": "Below are selected projects that highlight my experience applying marketing analytics and strategic research to real-world challenges. These projects reflect my ability to combine data analysis, business research, and strategic thinking to inform decisions and drive results."
+  },
+  {
+    "objectID": "marketing-analytics.html#what-youll-find",
+    "href": "marketing-analytics.html#what-youll-find",
+    "title": "Marketing Analytics",
+    "section": "What You’ll Find",
+    "text": "What You’ll Find\n\nResearch & Survey Analysis: Using data to uncover insights about student behavior and wellbeing.\nStrategic Business Analysis: Evaluating companies through environmental scanning, SWOT, and competitive research.\nData Visualization: Turning raw datasets into clear visuals using R and ggplot2.\nCollaborative Projects: Working in teams to analyze real data and publish findings."
+  },
+  {
+    "objectID": "contact-us/thank-you.html",
+    "href": "contact-us/thank-you.html",
+    "title": "Thank you",
+    "section": "",
+    "text": "Form submitted."
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Hi, I’m Angelina Jao",
+    "section": "About Me",
+    "text": "About Me\nI hold a Marketing Management from California State Polytechnic University, Pomona."
+  },
+  {
+    "objectID": "index.html#lets-connect",
+    "href": "index.html#lets-connect",
+    "title": "Hi, I’m Angelina Jao",
+    "section": "Let’s Connect",
+    "text": "Let’s Connect\nYou can email me or connect on LinkedIn.\n\nWelcome to my portfolio."
+  },
+  {
+    "objectID": "resume/Resume.html",
+    "href": "resume/Resume.html",
+    "title": "Education",
+    "section": "",
+    "text": "Education\n\n\n# A tibble: 1 × 5\n  what                                                  when   with  where why  \n  &lt;chr&gt;                                                 &lt;chr&gt;  &lt;chr&gt; &lt;chr&gt; &lt;lis&gt;\n1 B.S. in Business Administration, Marketing Management Aug 2… Coll… Cali… &lt;chr&gt;\n\n\nGPA: 3.3 | Dean’s List: Fall 2025\nRelevant Coursework: Principles of Marketing Management, Management Information Systems, Operations Management, Applied Business Communication, Marketing Analysis, Organizational Behavior\n\n\nWork Experience\n\n\n# A tibble: 2 × 5\n  what       when                      with                         where why   \n  &lt;chr&gt;      &lt;chr&gt;                     &lt;chr&gt;                        &lt;chr&gt; &lt;list&gt;\n1 Shift Lead May 2023 -- Present       Chick-fil-A | City of Indus… &lt;NA&gt;  &lt;list&gt;\n2 Cashier    July 2022 -- January 2025 Chicken Now | West Covina, … &lt;NA&gt;  &lt;list&gt;\n\n\n\n\nUniversity Projects\n\n\n# A tibble: 3 × 5\n  what                                                  when  with  where why   \n  &lt;chr&gt;                                                 &lt;chr&gt; &lt;chr&gt; &lt;chr&gt; &lt;list&gt;\n1 Student Outcomes and Equity Data Analysis | Data Ana… Jan … IBM … &lt;NA&gt;  &lt;list&gt;\n2 Corporate Analysis Team Project | Project Lead and E… Sep … IBM … &lt;NA&gt;  &lt;list&gt;\n3 Socio-Economic Data Analysis and Stakeholder Advocac… Aug … BUS … &lt;NA&gt;  &lt;list&gt;"
+  },
+  {
+    "objectID": "listings/02-JPMorgan Chase Interim Management Report.html",
+    "href": "listings/02-JPMorgan Chase Interim Management Report.html",
+    "title": "JPMorgan Chase Interim Management Report",
+    "section": "",
+    "text": "Overview\nThis group management report provided a comprehensive analysis of JPMorgan Chase, covering its general and specific environmental factors, internal operations, and strategic positioning. Sections included technological advances, industry regulations, competitor analysis, leadership, and a full SWOT analysis with actionable recommendations.\n\n\n\n\nLearning Outcomes\n\nConduct a full internal and external environmental analysis of a major corporation.\nEvaluate competitive positioning using frameworks like SWOT.\nAssess leadership style and its impact on organizational culture.\nIdentify strategic opportunities and threats in the financial services industry.\nDevelop practical, evidence-based business recommendations.\n\n\n\n\nKey Skills Gained\n\nEnvironmental and competitor analysis\nStrategic management frameworks\nBusiness research and source evaluation\nSWOT analysis\nCollaborative report writing"
+  },
+  {
+    "objectID": "listings/03-Research Participation Data Analysis.html",
+    "href": "listings/03-Research Participation Data Analysis.html",
+    "title": "Research Participation Data Analysis",
+    "section": "",
+    "text": "Overview\nThis collaborative group project analyzed research participation data using R and SPSS. The team cleaned and wrangled the dataset, built visualizations with ggplot2, and published the final report as a Quarto document to GitHub Pages. The project was completed as part of a marketing analytics course at Cal Poly Pomona.\n\n\n\n\nLearning Outcomes\n\nClean and prepare real-world survey data for analysis.\nBuild and interpret visualizations using ggplot2.\nCollaborate on a data project with defined team roles.\nPublish a reproducible report using Quarto and GitHub Pages.\nDraw marketing insights from participation pattern data.\n\n\n\n\nKey Skills Gained\n\nR and ggplot2\nData wrangling\nQuarto report publishing\nGitHub Pages deployment\nTeam-based data analysis"
+  },
+  {
+    "objectID": "listings/01-Student Financial Stress & Mental Health Analysis.html",
+    "href": "listings/01-Student Financial Stress & Mental Health Analysis.html",
+    "title": "Student Financial Stress & Mental Health Analysis",
+    "section": "",
+    "text": "Overview\nThis group research project investigated the relationship between financial insecurity and mental health among Cal Poly Pomona students. Using a quantitative survey from a BUS1010 class, the team analyzed responses to identify patterns in stress, depression, and financial burden, then proposed campus-level recommendations aligned with the UN Sustainable Development Goal of ending poverty.\n\n\n\n\nLearning Outcomes\n\nAnalyze survey data to identify trends in student wellbeing.\nConnect financial insecurity to measurable mental health outcomes.\nDevelop evidence-based recommendations for institutional change.\nCommunicate research findings in a structured academic format.\nAlign research with global sustainability frameworks.\n\n\n\n\nKey Skills Gained\n\nSurvey design and data collection\nQuantitative data analysis\nAcademic research and citation\nTeam collaboration\nPolicy and recommendation writing"
+  },
+  {
+    "objectID": "strategic-marketing.html",
+    "href": "strategic-marketing.html",
+    "title": "Strategic Marketing",
+    "section": "",
+    "text": "Below are selected projects that showcase my work in strategic marketing, campaign development, and brand management. These examples highlight how I apply leadership, data-informed decision making, and creative direction to drive marketing success."
+  },
+  {
+    "objectID": "strategic-marketing.html#socio-economic-data-analysis-stakeholder-advocacy-bus-1010",
+    "href": "strategic-marketing.html#socio-economic-data-analysis-stakeholder-advocacy-bus-1010",
+    "title": "Strategic Marketing",
+    "section": "Socio-Economic Data Analysis & Stakeholder Advocacy — BUS 1010",
+    "text": "Socio-Economic Data Analysis & Stakeholder Advocacy — BUS 1010\nIn this project, I led a cross-functional research initiative to quantify the correlation between financial insecurity and academic performance at Cal Poly Pomona. From survey design to stakeholder presentation, I managed the full lifecycle of the campaign, aligning findings with institutional objectives and actionable recommendations.\nSkills Demonstrated:\n\nMarketing Strategy: Designed a survey framework capturing data from 40 students to surface key service gaps in campus resources.\nTeam Coordination: Collaborated across a research team to aggregate and interpret data using Excel and Google Forms.\nPerformance Tracking: Translated raw data into measurable insights identifying critical gaps in mental health and financial support.\nBrand Positioning: Delivered a persuasive narrative to the University President and Dean that influenced resource reallocation decisions."
+  },
+  {
+    "objectID": "strategic-marketing.html#corporate-brand-analysis-principles-of-management-ibm-3102",
+    "href": "strategic-marketing.html#corporate-brand-analysis-principles-of-management-ibm-3102",
+    "title": "Strategic Marketing",
+    "section": "Corporate Brand Analysis — Principles of Management — IBM 3102",
+    "text": "Corporate Brand Analysis — Principles of Management — IBM 3102\nThis initiative involved conducting a full corporate analysis including SWOT, VRIO, and internal/external environment assessments for a real organization. I synthesized competitive insights into a strategic report and presentation that earned a 95% and 100% respectively.\nSkills Demonstrated:\n\nBrand Analysis: Audited organizational strengths, weaknesses, and market positioning through SWOT and VRIO frameworks.\nCompetitive Benchmarking: Evaluated the company’s standing within its competitive landscape using professional research databases.\nStrategic Communication: Developed clear value propositions and a cohesive narrative for a general business audience.\nStakeholder Presentation: Delivered findings via a Prezi presentation and Camtasia-produced video to course instructors.\n\nBelow is an embedded demonstration of the interactive RevealJS:"
+  },
+  {
+    "objectID": "strategic-marketing.html#student-outcomes-equity-data-analysis-ibm-3202",
+    "href": "strategic-marketing.html#student-outcomes-equity-data-analysis-ibm-3202",
+    "title": "Strategic Marketing",
+    "section": "Student Outcomes & Equity Data Analysis — IBM 3202",
+    "text": "Student Outcomes & Equity Data Analysis — IBM 3202\nFor this research project, I collaborated with a team to analyze a CPP student dataset in RStudio, investigating how race, gender, and major relate to learning abilities and disabilities. I developed the analytical approach and led the class presentation of findings.\nSkills Demonstrated:\n\nGo-to-Market Strategy: Structured the research process from data cleaning to insight delivery with a clear audience in mind.\nIntegrated Marketing: Combined statistical analysis (ANOVA, Cronbach’s Alpha) with accessible storytelling for a non-technical audience.\nBudget Management: Worked within academic constraints to deliver a polished, professional output using RStudio and descriptive statistics.\nLaunch Optimization: Refined our analytical approach based on p-value significance thresholds and peer feedback during the presentation.\n\nBelow is an embedded demonstration of the interactive RevealJS:"
+  },
+  {
+    "objectID": "strategic-marketing.html#service-operations-guest-experience-chick-fil-a",
+    "href": "strategic-marketing.html#service-operations-guest-experience-chick-fil-a",
+    "title": "Strategic Marketing",
+    "section": "Service Operations & Guest Experience — Chick-fil-A",
+    "text": "Service Operations & Guest Experience — Chick-fil-A\nAs a Shift Lead managing 200+ daily guests and a 15+ member team, I continuously assessed and optimized front-of-house operations to improve guest satisfaction and team performance — applying the same principles as a marketing consultant auditing a brand’s customer experience.\nSkills Demonstrated:\n\nClient Consulting: Identified operational pain points and delivered real-time adjustments to improve guest experience and service flow.\nPersona Development: Observed guest behavior patterns during national promotions and mobile app campaigns to anticipate needs and adjust workflows.\nCampaign Optimization: Monitored service metrics including order accuracy and speed to identify underperformance and drive improvements.\nData-Driven Adjustments: Used service data and shift observations to inform staffing decisions and maintain brand standards."
+  },
+  {
+    "objectID": "angelina_jao_resume.html#education",
+    "href": "angelina_jao_resume.html#education",
+    "title": "Angelina Jao",
+    "section": "Education",
+    "text": "Education\nCalifornia State Polytechnic University, Pomona   Pomona, CA\nBachelor of Science in Business Administration, Marketing Management   Expected May 2027\nGPA: 3.3 | Dean’s List: Fall 2025\nRelevant Coursework: Principles of Marketing Management, Management Information Systems, Operations Management, Applied Business Communication, Marketing Analysis, Organizational Behavior"
+  },
+  {
+    "objectID": "angelina_jao_resume.html#work-experience",
+    "href": "angelina_jao_resume.html#work-experience",
+    "title": "Angelina Jao",
+    "section": "Work Experience",
+    "text": "Work Experience\nShift Lead | Chick-fil-A | City of Industry, CA   May 2023 – Present\n\nMonitored service metrics including order accuracy, speed, and guest satisfaction to identify trends and drive team performance improvements.\nLed front-of-house operations for shifts serving 200+ guests per day, coordinating a 15+ member team to maintain speed, accuracy, and guest satisfaction.\nIdentified workflow bottlenecks during high-volume shifts and implemented process adjustments that improved order accuracy and service times.\nObserved order volume patterns during national promotions and mobile app campaigns, adjusting team workflows to sustain service efficiency.\nTrained new team members, provided ongoing feedback, and developed a positive team culture aligned with brand standards.\nManaged opening and closing procedures, cash handling, and shift responsibilities to support smooth daily operations.\nResolved guest concerns professionally and efficiently, ensuring high standards of hospitality and satisfaction.\n\n\nCashier | Chicken Now | West Covina, CA   July 2022 – January 2025\n\nCoordinated with third-party delivery platforms (DoorDash, UberEats, Postmates), auditing order accuracy and maintaining brand integrity across digital touchpoints.\nIdentified opportunities to improve service flow and suggested layout adjustments that reduced guest wait time and improved front-of-house efficiency.\nTroubleshot POS system and equipment issues to minimize service delays and maintain transaction accuracy.\nBuilt rapport with a diverse customer base through clear communication, patience, and effective resolution of language barrier challenges.\nMaintained composure and accuracy during solo shifts and high-traffic rushes in a fast-paced environment."
+  },
+  {
+    "objectID": "angelina_jao_resume.html#university-projects",
+    "href": "angelina_jao_resume.html#university-projects",
+    "title": "Angelina Jao",
+    "section": "University Projects",
+    "text": "University Projects\nStudent Outcomes & Equity Data Analysis   Jan. 2026 – May 2026\nIBM 3202 — Market Analysis & Control | Role: Data Analyst & Presenter\n\nCollaborated in a team to clean and analyze a CPP student dataset in RStudio, investigating whether race, gender, or major correlates with learning abilities and disabilities.\nApplied descriptive statistics, Cronbach’s Alpha, and ANOVA testing to evaluate group differences and data reliability, interpreting results through p-value significance thresholds.\nPresented findings to class, translating complex statistical outputs into clear, accessible insights for a non-technical audience.\n\n\nCorporate Analysis Team Project   Sep. 2025 – Dec. 2025\nIBM 3012 — Principles of Marketing Management | Role: Project Lead & Editorial Reviewer\n\nLed a 15-week team analysis of a real corporation including SWOT, VRIO, and external/internal environment assessments using professional research databases.\nManaged project timeline and task delegation using a Gantt Chart in Trello; final written report rated 95% and presentation rated 100% based on workplace skills criteria.\nProduced a video presentation using Camtasia and collaborated virtually with a team of 5 via Zoom and Google Meet.\nDemonstrated ethical and effective use of generative AI tools (ChatGPT, Microsoft Copilot) in research and professional writing.\n\n\nSocio-Economic Data Analysis & Stakeholder Advocacy   Aug. 2023 – Nov. 2023\nBUS 1010 — Business Freshman Experience | Role: Researcher\n\nDesigned and distributed a survey framework capturing data from 40 students to quantify correlations between financial insecurity and academic performance.\nLeveraged Excel and Google Forms to aggregate and analyze data, identifying service gaps in campus mental health and financial resources.\nPresented findings to the University President and Dean, influencing discussions on reallocation of financial resources and expansion of student support programs."
+  },
+  {
+    "objectID": "angelina_jao_resume.html#certifications",
+    "href": "angelina_jao_resume.html#certifications",
+    "title": "Angelina Jao",
+    "section": "Certifications",
+    "text": "Certifications\n\nGoogle Analytics (GA4) Certification — Google (March 2026)\nData Wrangling & Visualization — Cal Poly Pomona, College of Business Administration (May 2026)"
+  },
+  {
+    "objectID": "angelina_jao_resume.html#skills",
+    "href": "angelina_jao_resume.html#skills",
+    "title": "Angelina Jao",
+    "section": "Skills",
+    "text": "Skills\nTechnical: Microsoft Office Suite (Word, PowerPoint, Excel), Google Workspace (Docs, Slides, Sheets, Drive), RStudio, Notion, GitHub\nData & Analytics: Google Analytics (GA4), RStudio, descriptive statistics, survey design, data visualization, performance reporting\nMarketing: Social media content editing, branding, content strategy, strategic pitching, Adobe Creative Cloud (Photoshop, Illustrator)\nProfessional: Leadership, team training, project management, cross-functional coordination, time management, written and verbal communication\nLanguages: Fluent English | Intermediate Indonesian"
+  },
+  {
+    "objectID": "angelina_jao_resume.html#volunteer-experience",
+    "href": "angelina_jao_resume.html#volunteer-experience",
+    "title": "Angelina Jao",
+    "section": "Volunteer Experience",
+    "text": "Volunteer Experience\nVolunteer | Vejar Elementary School | Walnut, CA\n\nSupported children with disabilities through hands-on activities encouraging communication, learning, and confidence in an inclusive environment.\nDeveloped interpersonal and leadership skills by assisting program staff and helping children complete tasks and group activities.\n\nVolunteer | Community Beach Cleanup | Laguna Beach, CA\n\nParticipated in organized cleanup events, managing waste-collection logistics and contributing to local environmental sustainability efforts.\nCollaborated with volunteers to maintain a clean and safe public space, strengthening teamwork and environmental awareness."
+  },
+  {
+    "objectID": "contact-us/contact-us.html",
+    "href": "contact-us/contact-us.html",
+    "title": "Contact Us",
+    "section": "",
+    "text": "Template"
+  }
+]
