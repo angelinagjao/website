@@ -1,0 +1,28 @@
+---
+title: "Student Financial Stress & Mental Health Analysis"
+image: "https://placehold.co/600x400?text=Silent+Struggles"
+categories: [Research, Survey Analysis, Student Wellbeing, Data Collection]
+index: 1
+---
+
+#### **Overview**
+This group research project investigated the relationship between financial insecurity and mental health among Cal Poly Pomona students. Using a quantitative survey from a BUS1010 class, the team analyzed responses to identify patterns in stress, depression, and financial burden, then proposed campus-level recommendations aligned with the UN Sustainable Development Goal of ending poverty.
+
+::: {.columns}
+::: {.column width="50%"}
+#### **Learning Outcomes**
+- Analyze survey data to identify trends in student wellbeing.
+- Connect financial insecurity to measurable mental health outcomes.
+- Develop evidence-based recommendations for institutional change.
+- Communicate research findings in a structured academic format.
+- Align research with global sustainability frameworks.
+:::
+::: {.column width="50%"}
+#### **Key Skills Gained**
+- Survey design and data collection
+- Quantitative data analysis
+- Academic research and citation
+- Team collaboration
+- Policy and recommendation writing
+:::
+:::

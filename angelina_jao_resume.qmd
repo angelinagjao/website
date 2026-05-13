@@ -1,0 +1,183 @@
+---
+title: "Angelina Jao"
+format:
+  html:
+    theme: cosmo
+    toc: false
+    self-contained: true
+    include-in-header:
+      text: |
+        <style>
+        @import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@300;400;500;600;700&family=DM+Serif+Display&display=swap');
+
+        body {
+          font-family: 'DM Sans', sans-serif;
+          color: #2d2d2d;
+          background-color: #fafafa;
+          font-size: 15px;
+          line-height: 1.7;
+        }
+
+        h1.title {
+          font-family: 'DM Serif Display', serif;
+          font-size: 2.8rem;
+          color: #1a1a2e;
+          text-align: center;
+          margin-bottom: 0.2rem;
+        }
+
+        .contact-bar {
+          text-align: center;
+          font-size: 0.88rem;
+          color: #555;
+          margin-bottom: 1.5rem;
+          padding: 0.5rem 1rem;
+          background: #f0f0f7;
+          border-radius: 8px;
+        }
+
+        .contact-bar a {
+          color: #5c5fc1;
+          text-decoration: none;
+          font-weight: 500;
+        }
+
+        h2 {
+          font-size: 1.05rem;
+          font-weight: 700;
+          text-transform: uppercase;
+          letter-spacing: 0.08em;
+          color: #5c5fc1;
+          border-bottom: 2px solid #e0e0f0;
+          padding-bottom: 0.3rem;
+          margin-top: 2rem;
+          margin-bottom: 0.8rem;
+        }
+
+        hr {
+          border: none;
+          border-top: 1px solid #ececf5;
+          margin: 1.5rem 0;
+        }
+
+        a { color: #5c5fc1; text-decoration: none; }
+        a:hover { text-decoration: underline; }
+
+        strong { color: #1a1a2e; }
+
+        ul { padding-left: 1.2rem; }
+        ul li { margin-bottom: 0.3rem; }
+
+        main {
+          max-width: 820px;
+          margin: 0 auto;
+          padding: 2rem 1.5rem;
+          background: #ffffff;
+          box-shadow: 0 2px 20px rgba(0,0,0,0.06);
+          border-radius: 12px;
+        }
+        </style>
+---
+
+::: {.contact-bar}
+Baldwin Park, CA &ensp;|&ensp; 909-266-4881 &ensp;|&ensp; [angelinagjao@gmail.com](mailto:angelinagjao@gmail.com) &ensp;|&ensp; [LinkedIn](http://linkedin.com/in/angelina-g-jao) &ensp;|&ensp; [GitHub](http://github.com/angelinagjao)
+:::
+
+---
+
+## Education
+
+**California State Polytechnic University, Pomona** &emsp; *Pomona, CA*  
+Bachelor of Science in Business Administration, Marketing Management &emsp; **Expected May 2027**  
+GPA: 3.3 | Dean's List: Fall 2025
+
+*Relevant Coursework: Principles of Marketing Management, Management Information Systems, Operations Management, Applied Business Communication, Marketing Analysis, Organizational Behavior*
+
+---
+
+## Work Experience
+
+**Shift Lead** | Chick-fil-A | City of Industry, CA &emsp; *May 2023 – Present*
+
+- Monitored service metrics including order accuracy, speed, and guest satisfaction to identify trends and drive team performance improvements.
+- Led front-of-house operations for shifts serving 200+ guests per day, coordinating a 15+ member team to maintain speed, accuracy, and guest satisfaction.
+- Identified workflow bottlenecks during high-volume shifts and implemented process adjustments that improved order accuracy and service times.
+- Observed order volume patterns during national promotions and mobile app campaigns, adjusting team workflows to sustain service efficiency.
+- Trained new team members, provided ongoing feedback, and developed a positive team culture aligned with brand standards.
+- Managed opening and closing procedures, cash handling, and shift responsibilities to support smooth daily operations.
+- Resolved guest concerns professionally and efficiently, ensuring high standards of hospitality and satisfaction.
+
+---
+
+**Cashier** | Chicken Now | West Covina, CA &emsp; *July 2022 – January 2025*
+
+- Coordinated with third-party delivery platforms (DoorDash, UberEats, Postmates), auditing order accuracy and maintaining brand integrity across digital touchpoints.
+- Identified opportunities to improve service flow and suggested layout adjustments that reduced guest wait time and improved front-of-house efficiency.
+- Troubleshot POS system and equipment issues to minimize service delays and maintain transaction accuracy.
+- Built rapport with a diverse customer base through clear communication, patience, and effective resolution of language barrier challenges.
+- Maintained composure and accuracy during solo shifts and high-traffic rushes in a fast-paced environment.
+
+---
+
+## University Projects
+
+**Student Outcomes & Equity Data Analysis** &emsp; *Jan. 2026 – May 2026*  
+*IBM 3202 — Market Analysis & Control | Role: Data Analyst & Presenter*
+
+- Collaborated in a team to clean and analyze a CPP student dataset in RStudio, investigating whether race, gender, or major correlates with learning abilities and disabilities.
+- Applied descriptive statistics, Cronbach's Alpha, and ANOVA testing to evaluate group differences and data reliability, interpreting results through p-value significance thresholds.
+- Presented findings to class, translating complex statistical outputs into clear, accessible insights for a non-technical audience.
+
+---
+
+**Corporate Analysis Team Project** &emsp; *Sep. 2025 – Dec. 2025*  
+*IBM 3012 — Principles of Marketing Management | Role: Project Lead & Editorial Reviewer*
+
+- Led a 15-week team analysis of a real corporation including SWOT, VRIO, and external/internal environment assessments using professional research databases.
+- Managed project timeline and task delegation using a Gantt Chart in Trello; final written report rated 95% and presentation rated 100% based on workplace skills criteria.
+- Produced a video presentation using Camtasia and collaborated virtually with a team of 5 via Zoom and Google Meet.
+- Demonstrated ethical and effective use of generative AI tools (ChatGPT, Microsoft Copilot) in research and professional writing.
+
+---
+
+**Socio-Economic Data Analysis & Stakeholder Advocacy** &emsp; *Aug. 2023 – Nov. 2023*  
+*BUS 1010 — Business Freshman Experience | Role: Researcher*
+
+- Designed and distributed a survey framework capturing data from 40 students to quantify correlations between financial insecurity and academic performance.
+- Leveraged Excel and Google Forms to aggregate and analyze data, identifying service gaps in campus mental health and financial resources.
+- Presented findings to the University President and Dean, influencing discussions on reallocation of financial resources and expansion of student support programs.
+
+---
+
+## Certifications
+
+- **Google Analytics (GA4) Certification** — Google (March 2026)
+- **Data Wrangling & Visualization** — Cal Poly Pomona, College of Business Administration (May 2026)
+
+---
+
+## Skills
+
+**Technical:** Microsoft Office Suite (Word, PowerPoint, Excel), Google Workspace (Docs, Slides, Sheets, Drive), RStudio, Notion, GitHub
+
+**Data & Analytics:** Google Analytics (GA4), RStudio, descriptive statistics, survey design, data visualization, performance reporting
+
+**Marketing:** Social media content editing, branding, content strategy, strategic pitching, Adobe Creative Cloud (Photoshop, Illustrator)
+
+**Professional:** Leadership, team training, project management, cross-functional coordination, time management, written and verbal communication
+
+**Languages:** Fluent English | Intermediate Indonesian
+
+---
+
+## Volunteer Experience
+
+**Volunteer** | Vejar Elementary School | Walnut, CA
+
+- Supported children with disabilities through hands-on activities encouraging communication, learning, and confidence in an inclusive environment.
+- Developed interpersonal and leadership skills by assisting program staff and helping children complete tasks and group activities.
+
+**Volunteer** | Community Beach Cleanup | Laguna Beach, CA
+
+- Participated in organized cleanup events, managing waste-collection logistics and contributing to local environmental sustainability efforts.
+- Collaborated with volunteers to maintain a clean and safe public space, strengthening teamwork and environmental awareness.

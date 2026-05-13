@@ -1,0 +1,106 @@
+---
+name: Angelina
+surname: Jao
+position: "3rd Year at Cal Poly Pomona"
+phone: +1 (909) 266-4881
+email: "angelinagjao@gmail.com"
+github: "angelinagjao"
+linkedin: "angelina-g-jao"
+date: "`r format(Sys.time(), '%B %Y')`"
+output: 
+  vitae::latexcv:
+    theme: classic
+header-includes:
+   - \usepackage{enumitem}
+   - \setlist[itemize]{nosep, left=0pt}
+   - \setlist[enumerate]{nosep, left=0pt}
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE)
+library(vitae)
+library(tibble)
+```
+
+# Education
+
+```{r}
+tribble(
+  ~ Degree, ~ Year, ~ College, ~ Institution,
+  "B.S. in Business Administration, Marketing Management", "Aug 2024 -- Expected May 2027", "College of Business Administration", "California State Polytechnic University, Pomona"
+) %>%
+  detailed_entries(Degree, Year, College, Institution)
+```
+
+GPA: 3.3 | Dean's List: Fall 2025
+
+*Relevant Coursework: Principles of Marketing Management, Management Information Systems, Operations Management, Applied Business Communication, Marketing Analysis, Organizational Behavior*
+
+# Work Experience
+
+```{r}
+tribble(
+  ~ Years, ~ Company, ~ Duties, ~ Title,
+  "May 2023 -- Present", "Chick-fil-A | City of Industry, CA",
+  list(
+    "Monitored service metrics including order accuracy, speed, and guest satisfaction to identify trends and drive team performance improvements.",
+    "Led front-of-house operations for shifts serving 200+ guests per day, coordinating a 15+ member team to maintain speed, accuracy, and guest satisfaction.",
+    "Identified workflow bottlenecks during high-volume shifts and implemented process adjustments that improved order accuracy and service times.",
+    "Trained new team members, provided ongoing feedback, and developed a positive team culture aligned with brand standards.",
+    "Managed opening and closing procedures, cash handling, and shift responsibilities to support smooth daily operations.",
+    "Resolved guest concerns professionally and efficiently, ensuring high standards of hospitality and satisfaction."
+  ),
+  "Shift Lead",
+  "July 2022 -- January 2025", "Chicken Now | West Covina, CA",
+  list(
+    "Coordinated with third-party delivery platforms (DoorDash, UberEats, Postmates), auditing order accuracy and maintaining brand integrity across digital touchpoints.",
+    "Identified opportunities to improve service flow and suggested layout adjustments that reduced guest wait time and improved front-of-house efficiency.",
+    "Troubleshot POS system and equipment issues to minimize service delays and maintain transaction accuracy.",
+    "Built rapport with a diverse customer base through clear communication, patience, and effective resolution of language barrier challenges.",
+    "Maintained composure and accuracy during solo shifts and high-traffic rushes in a fast-paced environment."
+  ),
+  "Cashier"
+) %>%
+  detailed_entries(
+    what = Title,
+    when = Years,
+    with = Company,
+    why = Duties
+  )
+```
+
+# University Projects
+
+```{r}
+tribble(
+  ~ Years, ~ Course, ~ Duties, ~ Title,
+  "Jan 2026 -- May 2026", "IBM 3202 -- Market Analysis and Control | Cal Poly Pomona",
+  list(
+    "Collaborated in a team to clean and analyze a CPP student dataset in RStudio, investigating whether race, gender, or major correlates with learning abilities and disabilities.",
+    "Applied descriptive statistics, Cronbach's Alpha, and ANOVA testing to evaluate group differences and data reliability, interpreting results through p-value significance thresholds.",
+    "Presented findings to class, translating complex statistical outputs into clear, accessible insights for a non-technical audience."
+  ),
+  "Student Outcomes and Equity Data Analysis | Data Analyst and Presenter",
+  "Sep 2025 -- Dec 2025", "IBM 3012 -- Principles of Marketing Management | Cal Poly Pomona",
+  list(
+    "Led a 15-week team analysis of a real corporation including SWOT, VRIO, and external/internal environment assessments using professional research databases.",
+    "Managed project timeline and task delegation using a Gantt Chart in Trello; final written report rated 95\\% and presentation rated 100\\% based on workplace skills criteria.",
+    "Produced a video presentation using Camtasia and collaborated virtually with a team of 5 via Zoom and Google Meet.",
+    "Demonstrated ethical and effective use of generative AI tools (ChatGPT, Microsoft Copilot) in research and professional writing."
+  ),
+  "Corporate Analysis Team Project | Project Lead and Editorial Reviewer",
+  "Aug 2023 -- Nov 2023", "BUS 1010 -- Business Freshman Experience | Cal Poly Pomona",
+  list(
+    "Designed and distributed a survey capturing data from 40 students to quantify correlations between financial insecurity and academic performance.",
+    "Leveraged Excel and Google Forms to aggregate and analyze data, identifying service gaps in campus mental health and financial resources.",
+    "Presented findings to the University President and Dean, influencing discussions on resource reallocation and expansion of student support programs."
+  ),
+  "Socio-Economic Data Analysis and Stakeholder Advocacy | Researcher"
+) %>%
+  detailed_entries(
+    what = Title,
+    when = Years,
+    with = Course,
+    why = Duties
+  )
+```

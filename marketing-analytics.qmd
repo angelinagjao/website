@@ -1,0 +1,20 @@
+---
+title: "Marketing Analytics"
+listing: 
+  contents: listings
+  type: grid
+  categories: true
+  sort: 
+    - "index desc"
+---
+
+Below are selected projects that highlight my experience applying marketing analytics and strategic research to real-world challenges. These projects reflect my ability to combine data analysis, business research, and strategic thinking to inform decisions and drive results.
+
+## What You'll Find
+
+- **Research & Survey Analysis:** Using data to uncover insights about student behavior and wellbeing.
+- **Strategic Business Analysis:** Evaluating companies through environmental scanning, SWOT, and competitive research.
+- **Data Visualization:** Turning raw datasets into clear visuals using R and ggplot2.
+- **Collaborative Projects:** Working in teams to analyze real data and publish findings.
+
+---

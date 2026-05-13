@@ -1,0 +1,63 @@
+---
+title: "Strategic Marketing"
+---
+
+Below are selected projects that showcase my work in strategic marketing, campaign development, and brand management. These examples highlight how I apply leadership, data-informed decision making, and creative direction to drive marketing success.
+
+## Socio-Economic Data Analysis & Stakeholder Advocacy — BUS 1010
+
+In this project, I led a cross-functional research initiative to quantify the correlation between financial insecurity and academic performance at Cal Poly Pomona. From survey design to stakeholder presentation, I managed the full lifecycle of the campaign, aligning findings with institutional objectives and actionable recommendations.
+
+**Skills Demonstrated:**
+
+- **Marketing Strategy:** Designed a survey framework capturing data from 40 students to surface key service gaps in campus resources.
+- **Team Coordination:** Collaborated across a research team to aggregate and interpret data using Excel and Google Forms.
+- **Performance Tracking:** Translated raw data into measurable insights identifying critical gaps in mental health and financial support.
+- **Brand Positioning:** Delivered a persuasive narrative to the University President and Dean that influenced resource reallocation decisions.
+
+---
+
+## Corporate Brand Analysis — Principles of Management — IBM 3102
+
+This initiative involved conducting a full corporate analysis including SWOT, VRIO, and internal/external environment assessments for a real organization. I synthesized competitive insights into a strategic report and presentation that earned a 95% and 100% respectively.
+
+**Skills Demonstrated:**
+
+- **Brand Analysis:** Audited organizational strengths, weaknesses, and market positioning through SWOT and VRIO frameworks.
+- **Competitive Benchmarking:** Evaluated the company's standing within its competitive landscape using professional research databases.
+- **Strategic Communication:** Developed clear value propositions and a cohesive narrative for a general business audience.
+- **Stakeholder Presentation:** Delivered findings via a Prezi presentation and Camtasia-produced video to course instructors.
+
+Below is an embedded demonstration of the interactive RevealJS:
+
+<iframe src="data/JPMorganChase_Team25.html" width="100%" height="600px" style="border: none;"></iframe>
+
+---
+
+## Student Outcomes & Equity Data Analysis — IBM 3202
+
+For this research project, I collaborated with a team to analyze a CPP student dataset in RStudio, investigating how race, gender, and major relate to learning abilities and disabilities. I developed the analytical approach and led the class presentation of findings.
+
+**Skills Demonstrated:**
+
+- **Go-to-Market Strategy:** Structured the research process from data cleaning to insight delivery with a clear audience in mind.
+- **Integrated Marketing:** Combined statistical analysis (ANOVA, Cronbach's Alpha) with accessible storytelling for a non-technical audience.
+- **Budget Management:** Worked within academic constraints to deliver a polished, professional output using RStudio and descriptive statistics.
+- **Launch Optimization:** Refined our analytical approach based on p-value significance thresholds and peer feedback during the presentation.
+
+Below is an embedded demonstration of the interactive RevealJS:
+
+<iframe src="data/TRI SEO Comparison.html" width="100%" height="600px" style="border: none;"></iframe>
+
+---
+
+## Service Operations & Guest Experience — Chick-fil-A
+
+As a Shift Lead managing 200+ daily guests and a 15+ member team, I continuously assessed and optimized front-of-house operations to improve guest satisfaction and team performance — applying the same principles as a marketing consultant auditing a brand's customer experience.
+
+**Skills Demonstrated:**
+
+- **Client Consulting:** Identified operational pain points and delivered real-time adjustments to improve guest experience and service flow.
+- **Persona Development:** Observed guest behavior patterns during national promotions and mobile app campaigns to anticipate needs and adjust workflows.
+- **Campaign Optimization:** Monitored service metrics including order accuracy and speed to identify underperformance and drive improvements.
+- **Data-Driven Adjustments:** Used service data and shift observations to inform staffing decisions and maintain brand standards.

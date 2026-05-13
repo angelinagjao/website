@@ -1,0 +1,28 @@
+---
+title: "JPMorgan Chase Interim Management Report"
+image: "https://placehold.co/600x400?text=JPMorgan+Chase"
+categories: [Strategic Analysis, SWOT, Business Research, Financial Services]
+index: 2
+---
+
+#### **Overview**
+This group management report provided a comprehensive analysis of JPMorgan Chase, covering its general and specific environmental factors, internal operations, and strategic positioning. Sections included technological advances, industry regulations, competitor analysis, leadership, and a full SWOT analysis with actionable recommendations.
+
+::: {.columns}
+::: {.column width="50%"}
+#### **Learning Outcomes**
+- Conduct a full internal and external environmental analysis of a major corporation.
+- Evaluate competitive positioning using frameworks like SWOT.
+- Assess leadership style and its impact on organizational culture.
+- Identify strategic opportunities and threats in the financial services industry.
+- Develop practical, evidence-based business recommendations.
+:::
+::: {.column width="50%"}
+#### **Key Skills Gained**
+- Environmental and competitor analysis
+- Strategic management frameworks
+- Business research and source evaluation
+- SWOT analysis
+- Collaborative report writing
+:::
+:::

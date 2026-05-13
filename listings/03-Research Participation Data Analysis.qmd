@@ -1,0 +1,28 @@
+---
+title: "Research Participation Data Analysis"
+image: "https://placehold.co/600x400?text=Market+Mappers"
+categories: [Data Analysis, R, Data Visualization, Marketing Research]
+index: 3
+---
+
+#### **Overview**
+This collaborative group project analyzed research participation data using R and SPSS. The team cleaned and wrangled the dataset, built visualizations with ggplot2, and published the final report as a Quarto document to GitHub Pages. The project was completed as part of a marketing analytics course at Cal Poly Pomona.
+
+::: {.columns}
+::: {.column width="50%"}
+#### **Learning Outcomes**
+- Clean and prepare real-world survey data for analysis.
+- Build and interpret visualizations using ggplot2.
+- Collaborate on a data project with defined team roles.
+- Publish a reproducible report using Quarto and GitHub Pages.
+- Draw marketing insights from participation pattern data.
+:::
+::: {.column width="50%"}
+#### **Key Skills Gained**
+- R and ggplot2
+- Data wrangling
+- Quarto report publishing
+- GitHub Pages deployment
+- Team-based data analysis
+:::
+:::

@@ -1,0 +1,27 @@
+---
+title: "Hi, I'm Angelina Jao"
+---
+
+
+::: {.columns}
+::: {.column width="30%"}
+![](images/hs.png){width=100% style="border-radius: 50%;"}
+:::
+::: {.column width="70%" style="padding-left: 3rem;"}
+I'm a Marketing Management student at Cal Poly Pomona who loves the intersection of creativity and analytics. I specialize in transforming complex information into clear, engaging, and actionable insights.
+:::
+:::
+
+## About Me
+
+I hold a <span class="highlight">Marketing Management</span> from California State Polytechnic University, Pomona.
+
+
+
+## Let's Connect
+
+You can [email me](mailto:angelinagjao@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/angelina-g-jao/).
+
+---
+
+*Welcome to my portfolio.*
